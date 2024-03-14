@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Smit's Homepage"
 title_separator          : "-"
 name                     : &name "Smit Raval"
-description              : &description "personal description"
+description              : &description "ML Enthusiast & Developer"
 url                      : https://smitraval24.github.io/SmitRaval.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : # URL - Update with the correct link to your profile
   impactstory      : # URL
   orcid            : #""
   pubmed           : #""
